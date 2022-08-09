@@ -1,4 +1,4 @@
-sunday
-monday
+sunday  
+monday  
 
 Wednesday
