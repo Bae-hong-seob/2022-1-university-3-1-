@@ -2,3 +2,4 @@ sunday
 monday  
 
 Wednesday
+hursday
