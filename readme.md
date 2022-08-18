@@ -1,3 +1,5 @@
 
 
-Tuesday
+Tuesday  
+
+Thursday
