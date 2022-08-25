@@ -1,4 +1,5 @@
   
   
   
-  Wednesday
+Wednesday  
+Thursday
