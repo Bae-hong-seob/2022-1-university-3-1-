@@ -1,1 +1,2 @@
-Monday
+Monday  
+Tuesday
