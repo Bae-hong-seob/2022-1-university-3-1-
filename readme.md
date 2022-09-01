@@ -1,2 +1,5 @@
 Monday  
 Tuesday
+
+
+Friday
