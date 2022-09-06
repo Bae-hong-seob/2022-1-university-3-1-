@@ -1,7 +1,8 @@
-Monday
-Tuesday
-Wednesday
-Thrusday
-Friday
-Saturday
-Sunday
+
+Tuesday  
+Wednesday  
+Thrusday  
+Friday  
+Saturday  
+Sunday  
+  
