@@ -1,7 +1,1 @@
-Monday  
-Tuesday  
-Wednesday  
-Thursday  
-Friday  
-Saturday  
-Sunday
+readme.md
